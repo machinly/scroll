@@ -7,6 +7,7 @@ on:
     branches:
       - main
       - 'releases/*'
+      - code_quality
 
 jobs:
   qodana:
